@@ -114,6 +114,13 @@ Learn more [here](https://puppet.com/docs/pe/2019.2/managing_puppet_code.html)
 ##### Sketch Plugin: `wget https://git.io/Jv2pk`
 
 ###### Latest Git Release Package [here](https://github.com/Lonero-Team/Decentralized-Internet/releases/tag/v3.6.9)  
-[![GitPod](https://jaywcjlove.github.io/sb/open/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Lonero-Team/Decentralized-Internet)  
+[![GitPod](https://jaywcjlove.github.io/sb/open/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Lonero-Team/Decentralized-Internet)
+
 ## License
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FLonero-Team%2FDecentralized-Internet.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FLonero-Team%2FDecentralized-Internet?ref=badge_large)
+
+## decentralized-internet for enterprise
+
+Available as part of the Tidelift Subscription.
+
+The maintainers of decentralized-internet and thousands of other packages are working with Tidelift to deliver commercial support and maintenance for the open source dependencies you use to build your applications. Save time, reduce risk, and improve code health, while paying the maintainers of the exact dependencies you use. [Learn more.](https://tidelift.com/subscription/pkg/racket-decentralized-internet?utm_source=racket-decentralized-internet&utm_medium=referral&utm_campaign=readme)
