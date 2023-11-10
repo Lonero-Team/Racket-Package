@@ -60,7 +60,7 @@
     "dist"
   ],
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^1.6.0",
     "d3": "^7.6.1",
     "query-string": "^6.5.0",
     "react-d3-library": "^1.1.8",
