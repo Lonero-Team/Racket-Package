@@ -20,7 +20,7 @@
     "couch-provider": "^2.1.0",
     "couch-update-views": "^1.0.8",
     "find-process": "^1.1.1",
-    "joi": "^14.3.1",
+    "joi": "^17.13.4",
     "linkedlist": "^1.0.1",
     "node-crontab": "0.0.8",
     "node-targz": "^0.2.0",
